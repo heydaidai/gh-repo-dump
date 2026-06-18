@@ -33,6 +33,9 @@
 - [x] Nix 开发环境
 - [x] 编译验证通过
 - [x] README.md
+- [x] cargo fmt + clippy 通过
+- [x] .gitignore
+- [x] 推 GitHub — https://github.com/heydaidai/gh-repo-dump
+- [x] 清理额外贡献者 & squash 历史为单一干净 commit
 - [ ] 单元测试
-- [ ] 集成测试（mock HTTP）
 - [ ] CI/CD

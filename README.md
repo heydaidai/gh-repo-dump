@@ -16,13 +16,13 @@ Extract comprehensive GitHub repository details as structured JSON — all in on
 ### From source (Rust)
 
 ```bash
-cargo install --git https://github.com/ayang/gh-repo-dump
+cargo install --git https://github.com/heydaidai/gh-repo-dump
 ```
 
 ### Build locally
 
 ```bash
-git clone https://github.com/ayang/gh-repo-dump
+git clone https://github.com/heydaidai/gh-repo-dump
 cd gh-repo-dump
 cargo build --release
 # Binary at ./target/release/gh-repo-dump

@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Extract comprehensive GitHub repository details as JSON"
 license = "MIT"
-repository = "https://github.com/ayang/gh-repo-dump"
+repository = "https://github.com/heydaidai/gh-repo-dump"
 
 [[bin]]
 name = "gh-repo-dump"
